@@ -1,4 +1,4 @@
 # kranthi-demo
 This is my first Git Repo
 <br>
-Author - Jakka
+Author - Jakka Sai
